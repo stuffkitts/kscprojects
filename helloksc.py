@@ -1,1 +1,1 @@
-print("hello ksc on dev")
+print("hello ksc for uat")
